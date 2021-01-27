@@ -1,4 +1,4 @@
-# Hi there I'm Noah! 👋
+# Hi there I'm Noah!  <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
 
 </p>
 <p align="center">
@@ -26,9 +26,7 @@
 
 
 <!--START_SECTION:activity-->
-
 # Languages and Tools
-
 [<code>
 <img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
 </code>](https://code.visualstudio.com/)
@@ -114,16 +112,6 @@
 
 ### A passionate full-stack developer and tech nerd
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 
 

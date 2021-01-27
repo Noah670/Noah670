@@ -13,9 +13,9 @@
 ## A passionate full-stack developer and overall tech nerd <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 - ❤️ I love writting code and reading about it
 - 📚 I’m currently learning ReactJS and TypeScript
-- 💬 Ask me about ...
+- 💬 Ask me about anything related to Javascript or Game Dev
 - 👯 I’m always looking to collaborate and engage with different GitHub communities
-- ⚡ Fun fact:  I ❤️ 🐱s
+- ⚡ Fun fact:  I ❤️ 🐱s and <img alt "bubble tea" width = "26px" src="https://img.icons8.com/plasticine/100/000000/kawaii-coffee.png"/>
 
 
 <br />

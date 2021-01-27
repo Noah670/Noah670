@@ -10,7 +10,7 @@
  <a href="https://www.noah670.com">Official Website</a> •
 </p>
 
-## A passionate full-stack developer and overall tech nerd
+## A passionate full-stack developer and overall tech nerd <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 - ❤️ I love writting code and reading about it
 - 📚 I’m currently learning ReactJS and TypeScript
 - 💬 Ask me about ...

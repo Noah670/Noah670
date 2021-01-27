@@ -1,5 +1,5 @@
 # Hi there I'm Noah!  <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
-
+---
 </p>
 <p align="left">
   <img src="https://gpvc.arturio.dev/Noah670" alt="profile views"> •  

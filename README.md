@@ -1,7 +1,9 @@
-### Hi there 👋
+### Hi there I'm Noah! 👋
 
 <!--
 **Noah670/Noah670** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+A passionate full-stack developer and tech nerd
 
 Here are some ideas to get you started:
 

@@ -1,7 +1,6 @@
 # Hi there I'm Noah! 👋
 
 </p>
-
 <p align="center">
   <img src="https://gpvc.arturio.dev/Noah670" alt="profile views"> •  
   <a href="https://twitter.com/intent/follow?screen_name=Noah670_&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/Noah670_?label=%40Noah670_&style=social"></a>  •
@@ -9,9 +8,7 @@
   <a href="https://www.instagram.com/noah670.png/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>  •  
   <a href="https://dev.to/noah670"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a> •  
  <a href="https://www.noah670.com">Official Website</a> •
-
 </p>
----
 
 ## A passionate full-stack developer and overall tech nerd
 - ❤️ I love writting code and reading about it

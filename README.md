@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning ReactJS and TypeScript
 - 💬 Ask me about ...
-- 👯 I’m always looking to collaborate and engage GitHub communities
+- 👯 I’m always looking to collaborate and engage with different GitHub communities
 - ⚡ Fun fact: ...
 
 

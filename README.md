@@ -1,7 +1,7 @@
 # Hi there I'm Noah!  <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
 
 </p>
-<p align="center">
+<p align="left">
   <img src="https://gpvc.arturio.dev/Noah670" alt="profile views"> •  
   <a href="https://twitter.com/intent/follow?screen_name=Noah670_&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/Noah670_?label=%40Noah670_&style=social"></a>  •
   <a href="https://www.linkedin.com/in/michael-hoffmann-3b8933b1"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> •  

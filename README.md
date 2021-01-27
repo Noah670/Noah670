@@ -1,5 +1,5 @@
 # Hi there I'm Noah!  <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
----
+
 </p>
 <p align="left">
   <img src="https://gpvc.arturio.dev/Noah670" alt="profile views"> •  
@@ -9,6 +9,8 @@
   <a href="https://dev.to/noah670"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a> •  
  <a href="https://www.noah670.com">Official Website</a> •
 </p>
+
+---
 
 ## A passionate full-stack developer and overall tech nerd <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 - ❤️ I love writting code and reading about it

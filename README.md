@@ -11,7 +11,7 @@
 </p>
 
 
-## A passionate full-stack developer and overall tech nerd <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
+## A passionate full-stack developer and all-around tech nerd <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 - ❤️ I love writting code and reading about it
 - 📚 I’m currently learning ReactJS and TypeScript
 - 💬 Ask me about anything related to Javascript or Game Dev 🎮

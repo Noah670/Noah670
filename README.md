@@ -15,9 +15,9 @@
 - 📚 I’m currently learning ReactJS and TypeScript
 - 💬 Ask me about anything related to Javascript or Game Dev
 - 👯 I’m always looking to collaborate and engage with different GitHub communities
-- ⚡ Fun fact:  I ❤️ 🐱s and [<code>
+- ⚡ Fun fact:  I ❤️ 🐱s and <code>
 <img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
-</code>]
+</code>
 
 <br />
 

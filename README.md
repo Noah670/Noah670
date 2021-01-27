@@ -11,6 +11,7 @@
  <a href="https://www.noah670.com">Official Website</a> •
 
 </p>
+---
 
 ## A passionate full-stack developer and overall tech nerd
 - ❤️ I love writting code and reading about it

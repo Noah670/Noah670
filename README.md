@@ -102,7 +102,7 @@
 
 
 <a href="https://github.com/Noah670/convoychat">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhamBharadwaz&layout=compact&card_width=445&theme=" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noah670&layout=compact&card_width=445&theme=" />
 </a>
 
 

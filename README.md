@@ -92,7 +92,10 @@
 <img alt="Unity" width="26px" src="https://img.icons8.com/ios-filled/50/000000/unity.png">
 </code>](https://unity.com/)
 [<code>
-<img alt="ubuntu" width="26px" src="https://img.icons8.com/color/96/000000/ubuntu--v1.png">
+<img alt="Blender" width="26px" src="https://img.icons8.com/ios-filled/50/000000/unity.png">
+</code>](https://www.blender.org/)
+[<code>
+<img alt="ubuntu" width="26px" src="https://img.icons8.com/color/48/000000/blender-3d.png">
 </code>](https://ubuntu.com/)
 [<code>
 <img alt="macos" width="26px" src="https://img.icons8.com/officel/160/000000/mac-logo.png">

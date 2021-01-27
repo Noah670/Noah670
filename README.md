@@ -73,8 +73,8 @@
 <img alt="latex" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png">
 </code>](https://www.latex-project.org/)
 [<code>
-<img alt="markdown" width="26px" src="https://img.icons8.com/ios-filled/100/000000/markdown.png">
-</code>](https://www.markdownguide.org/)
+<img alt="MongoDB" width="26px" src="https://img.icons8.com/color/48/000000/mongodb.png">
+</code>](https://www.mongodb.com/)
 [<code>
 <img alt="Git" width="26px" src="https://img.icons8.com/color/240/000000/git.png">
 </code>](https://git-scm.com/)

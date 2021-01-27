@@ -18,7 +18,13 @@
 - ⚡ Fun fact: ...
 
 
+<br />
 
+<p align=center>
+<em>Don't hesitate to get in touch!</em>
+</p>
+
+---
 
 
 <!--START_SECTION:activity-->

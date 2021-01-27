@@ -1,6 +1,6 @@
 # Hi there I'm Noah! 👋
 
-# A passionate full-stack developer and tech nerd
+## A passionate full-stack developer and tech nerd
 
 - 🌱 I’m currently learning ReactJS and TypeScript
 - 💬 Ask me about ...

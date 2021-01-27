@@ -13,7 +13,7 @@
 <p align="center">
   <img src="https://gpvc.arturio.dev/Noah670" alt="profile views"> •  
   <a href="https://twitter.com/intent/follow?screen_name=Noah670_&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/Noah670_?label=%40Noah670_&style=social"></a>  •
-  <a href="https://www.noah670.com">Blog</a> •
+  <a href="https://www.noah670.com">Official Website</a> •
   <a href="https://twitter.com/intent/follow?screen_name=Noah670_&tw_p=followbutton">Twitter</a> •
   <a href="https://github.com/Noah670/README">Work README</a> •
   <a href="https://learninpublic.org/?from=GH%20README">The Coding Career Handbook</a>

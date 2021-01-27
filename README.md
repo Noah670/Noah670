@@ -69,23 +69,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-#### Coding Stats
-
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
-
-<br>
-<br>
-
-#### Github Stats
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img " src="https://github-readme-stats.vercel.app/api?username=subhamBharadwaz&show_icons=true&theme=tokyonight" />
-</a>
-<br>
 
 
 -->

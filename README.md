@@ -20,6 +20,7 @@
 - ⚡ Fun fact:  I ❤️ 🐱s and <img alt="visual studio code" width="26px" src="https://img.icons8.com/plasticine/100/000000/kawaii-coffee.png"/>
 
 <br />
+<br />
 
 <p align=center>
 </p>

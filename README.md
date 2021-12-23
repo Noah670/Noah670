@@ -16,8 +16,8 @@
 - 📚 I’m currently learning ReactJS and TypeScript
 - 🌐 Working towards graduating 🎓 with my BS in Computer Science later this year and building the Metaverse
 - 💬 Ask me about anything related to Javascript or Game Dev 🎮
-- 👯 I’m always looking to collaborate and engage with different GitHub communities
-- ⚡ Fun fact:  I ❤️ 🐱s and <img alt="visual studio code" width="26px" src="https://img.icons8.com/plasticine/100/000000/kawaii-coffee.png"/>
+- Willing to collaborate and engage with different GitHub communities
+
 
 <br />
 <br />

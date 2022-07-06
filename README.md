@@ -12,7 +12,7 @@
 
 
 ## A passionate full-stack developer and all-around tech nerd <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
-- ❤️ I love writting code and reading about it
+- ❤️ I love writing code and reading about it
 - 📚 I’m currently learning ReactJS and TypeScript
 - 🌐 Working towards building the Metaverse in 2022
 - 💬 Ask me about anything related to Javascript or Game Dev 🎮

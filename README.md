@@ -13,7 +13,7 @@
 
 ## A passionate full-stack developer and all-around tech nerd <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 - ❤️ I love writing code and reading about it
-- 📚 I’m currently learning NextJS and Dart
+- 📚 I’m currently learning NextJS and Svelte
 - 🌐 Working towards building the Metaverse in 2023
 - 💬 Ask me about anything related to Javascript or Game Dev 🎮
 - Willing to collaborate and engage with different GitHub communities

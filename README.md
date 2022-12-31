@@ -30,8 +30,6 @@
 
 # Tech Stack
 
-# Tech Stack
-
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
@@ -154,6 +152,184 @@
       height="40"
     />
   </a>
+
+  <a href="https://www.cplusplus.com/" target="_blank">
+    <img
+      src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"
+      alt="C++"
+      width="40"
+      height="40"
+    />
+  </a>
+
+  <a href="https://www.cplusplus.com/" target="_blank">
+    <img
+      src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"
+      alt="C++"
+      width="40"
+      height="40"
+    />
+  </a>
+
+  <a href="https://www.python.org" target="_blank">
+    <img
+      src="https://www.python.org/"
+      alt="python"
+      width="40"
+      height="40"
+    />
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML)" target="_blank">
+    <img
+      src="https://img.icons8.com/color/240/000000/html-5.png"
+      alt="html5"
+      width="40"
+      height="40"
+    />
+  </a>
+
+  <a href="https://img.icons8.com/color/240/000000/css3.png" target="_blank">
+    <img
+      src="https://developer.mozilla.org/en-US/docs/Web/CSS"
+      alt="css3"
+      width="40"
+      height="40"
+    />
+  </a>
+
+  <a href="https://sass-lang.com/" target="_blank">
+    <img
+      src="https://img.icons8.com/color/240/000000/sass.png"
+      alt="sass"
+      width="40"
+      height="40"
+    />
+  </a>
+
+
+  <a href="https://www.json.org/json-en.html" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"
+      alt="json"
+      width="40"
+      height="40"
+    />
+  </a>
+
+
+  <a href="https://nodejs.org/en/" target="_blank">
+    <img
+      src="https://img.icons8.com/color/240/000000/nodejs.png"
+      alt="NodeJs"
+      width="40"
+      height="40"
+    />
+  </a>
+
+
+  <a href="https://dev.mysql.com/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"
+      alt="MySQL"
+      width="40"
+      height="40"
+    />
+  </a>
+
+
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img
+      src="https://img.icons8.com/color/48/000000/mongodb.png"
+      alt="MongoDB"
+      width="40"
+      height="40"
+    />
+  </a>
+
+
+  <a href="https://git-scm.com/" target="_blank">
+    <img
+      src="https://img.icons8.com/color/240/000000/git.png"
+      alt="Git"
+      width="40"
+      height="40"
+    />
+  </a>
+
+
+  <a href="https://github.com/" target="_blank">
+    <img
+      src="https://img.icons8.com/ios-glyphs/240/000000/github.png"
+      alt="GitHub"
+      width="40"
+      height="40"
+    />
+  </a>
+
+
+
+  <a href="https://docs.microsoft.com/en-us/windows/terminal/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"
+      alt="Terminal"
+      width="40"
+      height="40"
+    />
+  </a>
+
+
+  <a href="https://www.microsoft.com/en-us/windows" target="_blank">
+    <img
+      src="https://img.icons8.com/color/240/000000/windows-10.png"
+      alt="Windows"
+      width="40"
+      height="40"
+    />
+  </a>
+
+
+  <a href="https://unity.com/" target="_blank">
+    <img
+      src="https://img.icons8.com/ios-filled/50/000000/unity.png"
+      alt="Unity"
+      width="40"
+      height="40"
+    />
+  </a>
+
+
+  <a href="https://www.blender.org/" target="_blank">
+    <img
+      src="https://img.icons8.com/color/48/000000/blender-3d.png"
+      alt="Blender"
+      width="40"
+      height="40"
+    />
+  </a>
+
+
+  <a href="https://developer.apple.com/macos/" target="_blank">
+    <img
+      src="https://img.icons8.com/officel/160/000000/mac-logo.png"
+      alt="MacOS"
+      width="40"
+      height="40"
+    />
+  </a>
+
+
+  <a href="https://www.kernel.org/" target="_blank">
+    <img
+      src="https://img.icons8.com/color/96/000000/linux.png"
+      alt="Linux"
+      width="40"
+      height="40"
+    />
+  </a>
+
+
+
 
 </p>
 

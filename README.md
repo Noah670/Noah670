@@ -30,6 +30,7 @@
 
 # Tech Stack
 
+
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
@@ -71,14 +72,7 @@
       height="40"
     />
   </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
-      alt="linux"
-      width="40"
-      height="40"
-    />
-  </a>
+  
   <a href="https://www.photoshop.com/en" target="_blank">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"
@@ -135,14 +129,16 @@
     />
   </a>
 
-  <a href="https://www.cplusplus.com/" target="_blank">
+
+  <a href="https://developer.android.com/studio" target="_blank">
     <img
-      src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"
-      alt="C++"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original-wordmark.svg"
+      alt="AndroidStuio"
       width="40"
       height="40"
     />
   </a>
+
 
   <a href="https://www.cplusplus.com/" target="_blank">
     <img
@@ -171,10 +167,10 @@
     />
   </a>
 
-  <a href="https://img.icons8.com/color/240/000000/css3.png" target="_blank">
+  <a href="https://tailwindcss.com/" target="_blank">
     <img
-      src="https://developer.mozilla.org/en-US/docs/Web/CSS"
-      alt="css3"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg"
+      alt="tailwindcss"
       width="40"
       height="40"
     />
@@ -285,6 +281,16 @@
     <img
       src="https://img.icons8.com/color/48/000000/blender-3d.png"
       alt="Blender"
+      width="40"
+      height="40"
+    />
+  </a>
+
+
+  <a href="https://www.unrealengine.com/en-US" target="_blank">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original-wordmark.svg"
+      alt="Unreal"
       width="40"
       height="40"
     />

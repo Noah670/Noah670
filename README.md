@@ -36,9 +36,7 @@
 
 <img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
-<img align="left" alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />(https://code.visualstudio.com/)
-
-
+<img align="left" alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
 
 <img align="left" alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
 
@@ -103,7 +101,6 @@
 [<code>
 <img align="left" alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">
 </code>](https://www.kernel.org/)
-
 
 
 ---

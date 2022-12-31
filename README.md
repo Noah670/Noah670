@@ -28,10 +28,8 @@
 ---
 
 
-# Tech Stack
+# Tech Stack & Languages:
 
-
-<h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
   

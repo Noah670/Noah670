@@ -30,8 +30,6 @@
 
 # Tech Stack
 
-# Tech Stack
-
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
@@ -67,7 +65,7 @@
   </a>
   <a href="https://www.w3.org/html/" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
       alt="html5"
       width="40"
       height="40"
@@ -75,7 +73,7 @@
   </a>
   <a href="https://www.linux.org/" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
       alt="linux"
       width="40"
       height="40"
@@ -83,7 +81,7 @@
   </a>
   <a href="https://www.photoshop.com/en" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"
       alt="photoshop"
       width="40"
       height="40"
@@ -91,7 +89,7 @@
   </a>
   <a href="https://www.python.org" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
       alt="python"
       width="40"
       height="40"
@@ -155,10 +153,10 @@
     />
   </a>
 
-  <a href="https://www.python.org" target="_blank">
+  <a href="https://www.typescriptlang.org/" target="_blank">
     <img
-      src="https://www.python.org/"
-      alt="python"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+      alt="TypeScript"
       width="40"
       height="40"
     />
@@ -316,6 +314,7 @@
 
 
 </p>
+
 
 ---
 

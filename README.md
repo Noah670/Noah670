@@ -16,7 +16,7 @@
 - 📚 I’m currently maintaining NextJS and Svelte projects
 - 🌐 Working towards building the Metaverse in 2023
 - 💬 Ask me about anything related to Javascript or Game Dev 🎮
-- Willing to collaborate and engage with different GitHub communities
+- 🚀 Always looking to collaborate and engage with other developers and communities.
 
 
 <br />

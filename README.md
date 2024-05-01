@@ -13,8 +13,8 @@
 
 ## A passionate full-stack developer and all-around tech nerd <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 - ❤️ I love writing code and reading about it
-- 📚 I’m currently maintaining various NextJS and Solidity 🔮 projects
-- 🌐 Working towards building a unified Metaverse by 2025
+- 📚 I’m currently maintaining various NextJS and Solidity projects
+- 🔮 Working towards building a unified Metaverse by 2025
 - 💬 Ask me about anything related to Javascript or Dev 🎮
 - 🚀 Always looking to collaborate and engage with other developers and communities.
 

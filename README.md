@@ -15,7 +15,7 @@
 - ❤️ I love writing code and reading about it
 - 📚 I’m currently maintaining various NextJS and Solidity projects
 - 🔮 Working towards building a unified Metaverse by 2025
-- 💬 Ask me about anything related to Javascript or Dev 🎮
+- 💬 Ask me about anything related to Javascript or Dev tooling 
 - 🚀 Always looking to collaborate and engage with other developers and communities.
 
 

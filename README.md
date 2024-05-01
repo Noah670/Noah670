@@ -1,4 +1,4 @@
-# Hi there I'm Noa!  <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
+# Hey there I'm Noah!  <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
 
 </p>
 <p align="left">

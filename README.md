@@ -13,9 +13,9 @@
 
 ## A passionate full-stack developer and all-around tech nerd <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 - ❤️ I love writing code and reading about it
-- 📚 I’m currently maintaining NextJS and Svelte projects
-- 🌐 Working towards building the Metaverse in 2023
-- 💬 Ask me about anything related to Javascript or Game Dev 🎮
+- 📚 I’m currently maintaining various NextJS and Svelte projects
+- 🌐 Working towards building a unified Metaverse by 2025
+- 💬 Ask me about anything related to Javascript or Dev 🎮
 - 🚀 Always looking to collaborate and engage with other developers and communities.
 
 
